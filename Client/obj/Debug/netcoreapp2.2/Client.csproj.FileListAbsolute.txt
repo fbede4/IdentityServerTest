@@ -1,0 +1,11 @@
+C:\Users\bede.fulop\source\repos\ISTest\Client\bin\Debug\netcoreapp2.2\Client.deps.json
+C:\Users\bede.fulop\source\repos\ISTest\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.json
+C:\Users\bede.fulop\source\repos\ISTest\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.dev.json
+C:\Users\bede.fulop\source\repos\ISTest\Client\bin\Debug\netcoreapp2.2\Client.dll
+C:\Users\bede.fulop\source\repos\ISTest\Client\obj\Debug\netcoreapp2.2\Client.csprojAssemblyReference.cache
+C:\Users\bede.fulop\source\repos\ISTest\Client\obj\Debug\netcoreapp2.2\Client.csproj.CoreCompileInputs.cache
+C:\Users\bede.fulop\source\repos\ISTest\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfoInputs.cache
+C:\Users\bede.fulop\source\repos\ISTest\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfo.cs
+C:\Users\bede.fulop\source\repos\ISTest\Client\bin\Debug\netcoreapp2.2\Client.pdb
+C:\Users\bede.fulop\source\repos\ISTest\Client\obj\Debug\netcoreapp2.2\Client.dll
+C:\Users\bede.fulop\source\repos\ISTest\Client\obj\Debug\netcoreapp2.2\Client.pdb
